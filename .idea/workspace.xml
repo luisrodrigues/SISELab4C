@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="44086356-9f5d-439a-be11-28b029af6ee6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SISELab4C.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SISELab4C.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cs/calc/client/CalculatorClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cs/calc/client/CalculatorClient.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +21,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Client" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -96,14 +98,16 @@
       <screen x="0" y="0" width="1280" height="760" />
     </state>
     <state x="232" y="42" key="#Project_Structure/0.0.1280.760@0.0.1280.760" timestamp="1579648348646" />
-    <state x="491" y="273" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1579648233510">
-      <screen x="0" y="0" width="1280" height="760" />
+    <state x="737" y="374" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1579794861783">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="491" y="273" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1280.760@0.0.1280.760" timestamp="1579648233510" />
-    <state x="370" y="131" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1579648608603">
-      <screen x="0" y="0" width="1280" height="760" />
+    <state x="737" y="374" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579794861783" />
+    <state x="555" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1579797235333">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="370" y="131" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.760@0.0.1280.760" timestamp="1579648608603" />
+    <state x="555" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579797235333" />
     <state x="306" y="0" key="CommitChangelistDialog2" timestamp="1579649284491">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
@@ -112,5 +116,25 @@
       <screen x="0" y="0" width="1280" height="760" />
     </state>
     <state x="420" y="139" key="FileChooserDialogImpl/0.0.1280.760@0.0.1280.760" timestamp="1579648454603" />
+    <state width="1865" height="267" key="GridCell.Tab.0.bottom" timestamp="1579799427409">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="267" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579799427409" />
+    <state width="1865" height="267" key="GridCell.Tab.0.center" timestamp="1579799427409">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="267" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579799427409" />
+    <state width="1865" height="267" key="GridCell.Tab.0.left" timestamp="1579799427409">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="267" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579799427409" />
+    <state width="1865" height="267" key="GridCell.Tab.0.right" timestamp="1579799427409">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="267" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579799427409" />
+    <state x="337" y="75" key="SettingsEditor" timestamp="1579795264098">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="337" y="75" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1579795264098" />
   </component>
 </project>

@@ -2,6 +2,7 @@ package cs.calc.client;
 
 import javax.swing.*;
 import javax.xml.ws.BindingProvider;
+import java.awt.*;
 
 public class CalculatorClient {
 
@@ -27,6 +28,19 @@ public class CalculatorClient {
      * */
     public static void runCalculator(Calculator calc) {
         // implement in this method
+
+        while (true) {
+            String expression = JOptionPane.showInputDialog("Insert expression: ");
+            try {
+                if (expression.equals("exit")) {
+                    break;
+                }
+                int res = eval(expression, calc);
+                JOptionPane.showMessageDialog(null, "result is: " + res);
+            } catch (Exception e) {
+
+            }
+        }
     }
 
     /*
